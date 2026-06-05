@@ -1,6 +1,9 @@
 
 # 👋 Hi, I'm Riyyan zaffar 
-##🚀 About Me
+
+
+<img src="https://raw.githubusercontent.com/Riyyanzaffar/Riyyanzaffar/refs/heads/main/data-science-deep-learning-artificial-intelligence-analysis-business-person-using-laptop-desk-with-data-science-icon-virtual-screen_1296497-3796.avif"/>
+
 
 I'm an AI & Data Science Student from Karachi, Pakistan 🇵🇰, passionate about learning how data and artificial intelligence can be used to solve real-world problems.
 
